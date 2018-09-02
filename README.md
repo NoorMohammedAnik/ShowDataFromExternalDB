@@ -6,6 +6,7 @@ This projects explains the usage of an Android library which is helpful to impor
  
 # Step 1:
 Create a database quotes.db using your favorite SQLite database application (DB Browser for SQLite is a portable cross platform freeware, which can be used to create and edit SQLite databases). Create a table 'quotes' with a single column 'quote'. Insert some random quotes into the table 'quotes'.
+http://sqlitebrowser.org/
 
 # Step 2:
 The database can be imported into project either directly as it is, or as a compressed file. The compressed file is recommended, if your database is too large in size. You can create either a ZIP compression or a GZ compression.
