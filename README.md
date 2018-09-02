@@ -1,0 +1,3 @@
+# ShowDataFromExternalDB
+Show data or  import data using external SQLite database into your Android application
+ explains the usage of an Android library which is helpful to import and use external SQLite database into your Android application. It has been a problem for Android developers to release an application with some existing rows of data in the database. For example if you are developing a static application which is used to display some tourist spots in your country, probably you need to release the database with predefined details about the tourist places inside it. However, there are no native ways to import external database easily into your Android application.
