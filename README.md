@@ -33,6 +33,6 @@ Create a new folder 'databases' inside the assets folder.
 # Step 7:
 Copy and paste the  quotes.db.zip file inside the assets/databases folder.
 
-# step 8:
+# Step 8:
 Finaly your external sqlite database in assets/databases folder. Than follow the codes of this project.
 
